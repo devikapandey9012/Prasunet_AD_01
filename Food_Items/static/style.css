@@ -1,0 +1,66 @@
+
+body {
+    background-color: #6f6c78;
+  }
+
+.foodcal{
+ padding-top: 7%;
+ padding-bottom: 3%;
+ font-weight: 400;
+ color: #ffffff;
+ font-size: 60px;
+  }
+  
+  
+  h2 {
+    font-weight: 250;
+  }
+  
+  h1 strong {
+    font-weight: 400;
+    color: #bca764;
+  }
+  
+  .inputstyle {
+    padding: 20px !important;
+  }
+  
+  .whoop {
+    background-color: #6bcddc;
+    width: 8em;
+    font-size: 30px !important;
+    color: #a78080;
+  }
+  
+  .caloriescont {
+    background-color: #a97878;
+    padding: 30px;
+  }
+  
+  .caloriescont ul {
+    padding: 0px;
+  }
+  
+  .caloriescont ul li {
+    list-style: none;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #c28787;
+    width: 80%;
+  }
+  
+  .caloriescont h3 {
+    color: #5ecf35;
+    font-size: 2em;
+    text-transform: capitalize;
+    font-weight: 700;
+  }
+  
+  .caloriescont h5 {
+    color: #5acf6c;
+  }
+  
+  .servingsize {
+    background-color: #000000;
+    padding: 10px;
+    color: #ffffff;
+  }
